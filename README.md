@@ -7,4 +7,4 @@ Create 2 folders in the directory,
 install the pillow library with this command 
 pip install pillow
 
-Replace path_to_your_png_folder and path_to_your_output_folder with the paths to your own folders
+Replace './images' and './webp' with the paths to your own folders
